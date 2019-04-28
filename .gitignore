@@ -1,0 +1,8 @@
+*pyc
+*swp
+*swo
+*~
+*.db
+*.idea/
+venv/
+web/download/*
