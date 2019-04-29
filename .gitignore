@@ -4,5 +4,6 @@
 *~
 *.db
 *.idea/
+.idea/*
 venv/
 web/download/*
